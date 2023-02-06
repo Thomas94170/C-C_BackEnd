@@ -1,2 +1,5 @@
 /node_modules
 /products-en-Json
+/identifiant.txt
+
+mongosh "mongodb+srv://cluster-clickcollect.3kfs6xj.mongodb.net/myFirstDatabase" --apiVersion 1 --username <username>
